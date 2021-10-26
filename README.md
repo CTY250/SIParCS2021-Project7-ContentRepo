@@ -18,3 +18,5 @@ Some suggestions for future development:
 - Implementation of autocomplete for search results
 - Login and two-factor authentication (2FA) feature for Harvester controls
 - Allowing developers to see a preview of ISO metadata when hovering over the ISO metadata link / Preview page of ISO metadata instead of directly linking it to the actual page
+
+The Post Term SIParCS Documentation (PTSD) document is intended for people associated to this project to utilize it as a progress marker. Contrary to what the title acronym implies, the interns enjoyed the process and their mentors' guidance. So, the acronym should only be treated as humor.
